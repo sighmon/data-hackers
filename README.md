@@ -16,11 +16,10 @@ Below image shows the entity relationships between the different data headers fr
 ![Entity Relationships](entityrelationships.png)
 
 Below image shows one of the dashboards created that visualise the ATO data in some easily comprehendable data. You can select different states and years. 
-![Forecasting population](Dashboard1.png)
+![Dashboard 1](Dashboard1.png)
 
-The below image shows a second dashboard 
-![Forecasting population](dashboard2.png)
-
+The below image shows a second dashboard with some more data represented in graphs and charts.
+![Dashboard 2](dashboard2.png)
 
 The below image shows how we can forecast the population in a given postcode for the next 10 years, with a confidence of 95% 
 ![Forecasting population](testforecastpopulation.png)
