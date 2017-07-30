@@ -3,7 +3,13 @@
 
 ![Power BI dashboard for ATOh DataHackers](https://raw.githubusercontent.com/sighmon/data-hackers/master/screenshots/powerbi-dashboard.jpg)
 
-Proof of Concept: 
+## Source code
+
+You can find the PowerBI source in the [source](source) folder.
+
+To have a play with the reports yourself, sign up for a free 60-day trial of [PowerBI](https://powerbi.microsoft.com/en-us/) with a Microsoft account. Download the [desktop app](https://powerbi.microsoft.com/en-us/desktop/), and open either `ATOh_Dashboard_1.pbix` or `ATOh_Dashboard_2.pbix`. The first is our experiments with a dashboard, the second with forecasting.
+
+## Proof of Concept
 
 Currently, there is no clean way of visualising the ATO and ABS data. We are creating dashboards that will solve this issue and provide more visually appealing and easy to understand dashboards. 
 
