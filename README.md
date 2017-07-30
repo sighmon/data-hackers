@@ -1,6 +1,8 @@
 # Data Hackers
 GovHack 2017 entry for team Data Hackers
 
+![Power BI dashboard for ATOh DataHackers](https://raw.githubusercontent.com/sighmon/data-hackers/master/screenshots/powerbi-dashboard.jpg)
+
 Proof of Concept: 
 
 Currently, there is no clean way of visualising the ATO and ABS data. We are creating dashboards that will solve this issue and provide more visually appealing and easy to understand dashboards. 
